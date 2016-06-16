@@ -1,0 +1,5 @@
+E:\GitHub\AndyHeCode\AndyHeCode\AH.Framework\bin\Debug\AH.Framework.dll
+E:\GitHub\AndyHeCode\AndyHeCode\AH.Framework\bin\Debug\AH.Framework.pdb
+E:\GitHub\AndyHeCode\AndyHeCode\AH.Framework\obj\Debug\AH.Framework.csprojResolveAssemblyReference.cache
+E:\GitHub\AndyHeCode\AndyHeCode\AH.Framework\obj\Debug\AH.Framework.dll
+E:\GitHub\AndyHeCode\AndyHeCode\AH.Framework\obj\Debug\AH.Framework.pdb

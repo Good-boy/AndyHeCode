@@ -1,0 +1,8 @@
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\bin\Debug\AH.ConsoleApp.exe.config
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\bin\Debug\AH.ConsoleApp.exe
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\bin\Debug\AH.ConsoleApp.pdb
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\bin\Debug\AH.Framework.dll
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\bin\Debug\AH.Framework.pdb
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\obj\Debug\AH.ConsoleApp.csprojResolveAssemblyReference.cache
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\obj\Debug\AH.ConsoleApp.exe
+E:\GitHub\AndyHeCode\AndyHeCode\AH.ConsoleApp\obj\Debug\AH.ConsoleApp.pdb
